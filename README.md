@@ -39,7 +39,7 @@
 							Modifying the Look and Feel-Oracle</a><br>
 						<a href='https://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html'>
 							How to Set the Look and Feel-Oracle</a><br><br>
-						<center><img src="TextEditor.png" width="800px"></center>
+						<center><img src="TextEditor.png" width="800px"/></center>
 						
 						<p><b><u>Limitations:-</b></u>
 							<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
@@ -61,7 +61,7 @@
 							java.net-Javatpoint</a><br>
 						<a href='https://docs.oracle.com/javase/7/docs/api/java/net/package-summary.html'>
 							Package java.net-Oracle</a><br><br><br>
-						<center><img src="IPFinder.png" width="800px"></center>
+						<center><img src="IPFinder.png" width="800px"/></center>
 						<p><b><u>Instructions:-</b></u>
 							<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 								1)Please make sure that you have proper internet connection.(There is not any Error Messaging Technique Used).<br><br>
@@ -75,7 +75,7 @@
 					<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 						This Application is used to get the Source-Code of any Website like HTML/CSS/Javascript.
 						It also uses Java internet API with URL Class to get the All the Source-Code during Runtime.<br><br>
-						<center><img src="Src-Code Generator.png" width="800px"></center>
+						<center><img src="Src-Code Generator.png" width="800px"/></center>
 					</article>
 				</li>
 				<br>
@@ -90,7 +90,7 @@
 							Runnable interface in Java-GeeksForGeeks</a><br>
 						<a href="https://www.geeksforgeeks.org/multithreading-in-java/">
 							Multithreading in Java-GeeksForGeeks</a><br><br><br>
-							<center><img src="Client-Server.png" width="800px"></center>
+							<center><img src="Client-Server.png" width="800px"/></center>
 						<p><b><u>Instructions/Limitations:-</b></u>
 							<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 								1)Please make sure that you have not connected any WIFI/Router Or any other network connection 
@@ -107,7 +107,7 @@
 					<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 						This Game is based on Number and you have to arrange it in ascending order like (1,2,3,4..).
 						It consist of 2 game sets,you can change it through clicking on 'Next' button.<br><br>
-						<center><img src="NumberPuzzle.png" width="800px"></center>
+						<center><img src="NumberPuzzle.png" width="800px"/></center>
 					</article>
 				</li>
 				<br>
@@ -115,16 +115,16 @@
 					<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 						This Game is based on Picture and you have to arrange it in given original picture.
 						It consist of 3 images you can change it through clicking on them.<br><br>
-						<center><img src="PicPuzzle1.png" width="800px"></center><br><br>
-						<center><img src="PicPuzzle2.png" width="800px"></center><br><br>
-						<center><img src="PicPuzzle3.png" width="800px"></center><br>
+						<center><img src="PicPuzzle1.png" width="800px"/></center><br><br>
+						<center><img src="PicPuzzle2.png" width="800px"/></center><br><br>
+						<center><img src="PicPuzzle3.png" width="800px"/></center><br>
 					</article>
 				</li>
 				<br>
 				<li>Brick-Breaker Game:-
 					<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 						This Game is feels like classic breakout brick game.<br><br>
-						<center><img src="BrickBreaker.png" width="800px"></center>
+						<center><img src="BrickBreaker.png" width="800px"/></center>
 						<p><b><u>Instructions/Limitations:-</b></u>
 							<article style="margin-left:42px;margin-right:42px;margin-top: 8px;">
 								1)First Time It Loads slowly because of low resources from operating system.<br><br>
