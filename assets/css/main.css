@@ -910,6 +910,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   opacity: 0;
 }
 
+.overlay:hover {
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
+
 .overlay .icons i {
   height: 42px;
   width: 42px;
