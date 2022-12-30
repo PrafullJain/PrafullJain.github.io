@@ -649,7 +649,7 @@
 }
 /* ========================================================================== 3. Hero Area ========================================================================== */
  .hero-area-bg {
-     background: url(../img/background.jpg) repeat 0 0;
+     background: url('https://www.avenga.com/wp-content/uploads/2020/09/Salesforce-Developer-Experience.jpg') repeat 0 0;
      background-size: cover;
      width: 100%;
      margin: 0;
@@ -702,8 +702,8 @@
      height: 100%;
      top: 0px;
      left: 0px;
-     background: #0c0808;
-     opacity: 0.6;
+     background: #726d6d;
+     opacity: 0.4;
 }
  #hero-area .contents {
      padding: 175px 0px 120px;
