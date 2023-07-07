@@ -156,6 +156,7 @@
 		},
 
         processContent: function(content, link){
+		try{
             var $this = this,
                 href = link.attr('href'),
                 video = href.match(/(youtube|youtube-nocookie|youtu|vimeo)\.(com|be)\/(watch\?v=([\w-]+)|([\w-]+))/);
@@ -317,6 +318,7 @@
             } else {
                 $('.nivo-lightbox-title-wrap').html('');
             }
+	  }catch(error){}
         },
 
         constructLightbox: function(){
